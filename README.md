@@ -6,7 +6,9 @@ No npm is needed .
 Dependencies ---
 
 1. Node.js
+
 2.Python3
+
 3. BS4 (pip3 install bs4)
 
 
